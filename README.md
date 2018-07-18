@@ -1,5 +1,9 @@
 # Monument Colorization
 
+[![dep1](https://img.shields.io/badge/Python-3.6+-blue.svg)](#)
+[![dep2](https://img.shields.io/badge/Keras-2.1+-red.svg)](#)
+[![dep3](https://img.shields.io/badge/Tensorflow-1.4+-orange.svg)](#) 
+
 We use the [Pisa Dataset](http://www.nmis.isti.cnr.it/falchi/pisaDataset) to perform monument colorization.
 The dataset is already downloaded and saved in the `pisaDataset` directory.
 
