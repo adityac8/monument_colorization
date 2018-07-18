@@ -1,0 +1,1 @@
+The results when using akimage.io for image reading and eopchs=1000 with augmentated data and model3 op=adadelta

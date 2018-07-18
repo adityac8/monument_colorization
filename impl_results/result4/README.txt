@@ -1,0 +1,1 @@
+The results when using akimage.io for image reading and eopchs=1000 optimizer=adam with augmentated data
